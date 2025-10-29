@@ -55,7 +55,7 @@ streamlit run app.py
 4️.) Open in Browser
 
 Once started, open:
-👉 http://localhost:8501
+ http://localhost:8501
 
  **Sample Dashboard Views**
 -Delay by Quality Issue
