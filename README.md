@@ -1,14 +1,14 @@
  **OFI Model – Predictive Delivery Optimization**
 
-This project is a machine learning-powered delivery optimization dashboard built using Streamlit.
-It analyzes delivery data and predicts potential delays to help improve operational efficiency and customer satisfaction.
+  This project is a machine learning-powered delivery optimization dashboard built using Streamlit.
+  It analyzes delivery data and predicts potential delays to help improve operational efficiency and customer satisfaction.
 
 
 **Project Review**
 
-The model provides:
+  The model provides:
 
-- Insights into delivery performance and quality issues
+  - Insights into delivery performance and quality issues
 
 - Predictive delay analysis for new delivery orders
 
@@ -38,30 +38,7 @@ It combines multiple logistics-related datasets such as delivery performance, ve
 
   6)Cost breakdown
 
- **Technologies Used**
 
-Programming Language ---	Python 3
-Web Framework ---       	Streamlit
-Machine Learning ---    	Scikit-learn
-Data Handling ---	        Pandas, NumPy
-Visualization ---	        Plotly, Matplotlib
-Model Storage ---	        Joblib
-
-
-** Repository Structure**
-OFI_Model/
-│
-├── app.py                    # Streamlit web app
-├── model.joblib              # Trained ML model
-├── requirements.txt          # Required dependencies
-│
-├── cost_breakdown.csv        # Delivery cost-related data
-├── customer_feedback.csv     # Customer rating and feedback data
-├── delivery_performance.csv  # Core dataset used for prediction
-├── orders.csv                # Order information
-├── routes_distance.csv       # Route and distance data
-├── vehicle_fleet.csv         # Fleet and vehicle details
-└── warehouse_inventory.csv   # Warehouse and stock information
 
 **Installation and Setup**
 
@@ -119,7 +96,8 @@ Features Used:
   The trained model is stored as model.joblib and loaded dynamically by the Streamlit app.
 
 
-** Author**
+**Author**
 
 Ayush Bhushan Singh
-GitHub: ayushbs264
+
+
