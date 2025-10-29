@@ -63,7 +63,8 @@ OFI_Model/
 ├── vehicle_fleet.csv         # Fleet and vehicle details
 └── warehouse_inventory.csv   # Warehouse and stock information
 
-** Installation and Setup**
+**Installation and Setup**
+
 1.) Clone the Repository
 git clone https://github.com/ayushbs264/OFI_Model.git
 cd OFI_Model
