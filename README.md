@@ -4,7 +4,7 @@ This project is a machine learning-powered delivery optimization dashboard built
 It analyzes delivery data and predicts potential delays to help improve operational efficiency and customer satisfaction.
 
 
-** Project Overview**
+**Project Review**
 
 The model provides:
 
@@ -26,17 +26,17 @@ It combines multiple logistics-related datasets such as delivery performance, ve
 
 -Multiple data sources integrated:
 
-  -Delivery performance
+  1)Delivery performance
 
-  -Customer feedback
+  2)Customer feedback
 
-  -Vehicle fleet
+  3)Vehicle fleet
 
-  -Route distances
+  4)Route distances
 
-  -Warehouse inventory
+  5)Warehouse inventory
 
-  -Cost breakdown
+  6)Cost breakdown
 
  **Technologies Used**
 
