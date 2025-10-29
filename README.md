@@ -4,7 +4,7 @@
   It analyzes delivery data and predicts potential delays to help improve operational efficiency and customer satisfaction.
 
 
-**Project Review**
+**(i) Project Review**
 
   The model provides:
 
@@ -16,7 +16,7 @@
 
 It combines multiple logistics-related datasets such as delivery performance, vehicle fleet, customer feedback, and route distances to train and visualize predictive insights.
 
- **Key Features**
+ **(ii) Key Features**
 
 -Interactive dashboard built with Streamlit
 
@@ -40,7 +40,7 @@ It combines multiple logistics-related datasets such as delivery performance, ve
 
 
 
-**Installation and Setup**
+**(iii) Installation and Setup**
 
 1.) Clone the Repository
 git clone https://github.com/ayushbs264/OFI_Model.git
@@ -57,7 +57,7 @@ streamlit run app.py
 Once started, open:
  http://localhost:8501
 
- **Sample Dashboard Views**
+ **(iv) Sample Dashboard Views**
 -Delay by Quality Issue
 
 Displays delivery delays categorized by quality issues such as minor damage, wrong item, or incomplete delivery.
@@ -75,7 +75,7 @@ Users can input:
 4)Expected Customer Rating
     and get a predicted delay risk instantly.
 
-** Model Information**
+**(v) Model Information**
 
 -Model Type: Logistic Regression
 
@@ -96,7 +96,7 @@ Features Used:
   The trained model is stored as model.joblib and loaded dynamically by the Streamlit app.
 
 
-**Author**
+**(vi) Author**
 
 Ayush Bhushan Singh
 
